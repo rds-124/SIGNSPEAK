@@ -2,7 +2,7 @@
 
 > Translate hand gestures into spoken words in **any language** using AI, deep learning, and computer vision.
 
-![Demo](https://media.giphy.com/media/9M3aPvPOVxSQmYGv8p/giphy.gif)
+
 
 ---
 
