@@ -1,8 +1,12 @@
 # 🤟 SIGNSPEAK: Bridging Gestures, Speech, and Translation 🌐🗣️
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Used-orange)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Used-success)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-Enabled-green)
+![Google Translate](https://img.shields.io/badge/Translation-Multilingual-informational)
+
 > Translate hand gestures into spoken words in **any language** using AI, deep learning, and computer vision.
-
-
 
 ---
 
